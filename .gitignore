@@ -1,0 +1,15 @@
+.conda/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+.vscode/
+
+client_traces/
+logs/
+models/
+pdfs/
+data/
